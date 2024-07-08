@@ -1,12 +1,10 @@
 package ex_07072024;
 
-public class Lab004 {
+public class Lab005 {
     public static void main(String[] args) {
         System.out.println(2 + 2);
-        System.out.println(2 * 2);
-        System.out.println(2 / 2);
         System.out.println(2 - 2);
-        System.out.println(3 / 2); // Integer
-
+        System.out.println(2 / 2);
+        System.out.println(10 / 10);
     }
 }
