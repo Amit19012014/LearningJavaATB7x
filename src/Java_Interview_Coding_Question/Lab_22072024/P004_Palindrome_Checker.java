@@ -1,4 +1,4 @@
-package Java_Interview_Coding_Question;
+package Java_Interview_Coding_Question.Lab_22072024;
 /*
 Create a program that checks whether a given string is a palindrome.
 A palindrome is a word or phrase that reads the same backward as forward (ignoring spaces, punctuation, and capitalization).

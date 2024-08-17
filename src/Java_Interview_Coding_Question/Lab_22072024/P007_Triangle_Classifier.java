@@ -1,4 +1,4 @@
-package Java_Interview_Coding_Question;
+package Java_Interview_Coding_Question.Lab_22072024;
 /*
 Write a program that classifies a triangle based on its side lengths.
  Given three input values representing the lengths of the sides,

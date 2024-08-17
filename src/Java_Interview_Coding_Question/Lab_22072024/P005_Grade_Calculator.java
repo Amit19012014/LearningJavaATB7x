@@ -1,4 +1,4 @@
-package Java_Interview_Coding_Question;
+package Java_Interview_Coding_Question.Lab_22072024;
 /*
 Write a program that calculates and displays the letter grade for a given numerical score
 (e.g., A, B, C, D, or F) based on the following grading scale:

@@ -1,4 +1,4 @@
-package Java_Interview_Coding_Question;
+package Java_Interview_Coding_Question.Lab_22072024;
 /*
 Create a program that determines whether a given year is a leap year.
 A leap year is divisible by 4, but not by 100 unless it is also divisible by 400.

@@ -1,4 +1,4 @@
-package Java_Interview_Coding_Question;
+package Java_Interview_Coding_Question.Lab_22072024;
 
 /*
 Write a program that prints numbers from 1 to 100.

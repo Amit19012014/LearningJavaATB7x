@@ -2,7 +2,7 @@
 //
 //public class P002_Table_Print_using_SOP {
 
-package Java_Interview_Coding_Question;
+package Java_Interview_Coding_Question.Lab_22072024;
 
 import java.util.Scanner;
 
